@@ -5,10 +5,10 @@ from tweepy.streaming import StreamListener
 import socket 
 import json 
 
-consumer_key='505ktFhaVuosXjtdkeVpzRdQB'
-consumer_secret='erThtKikpf1adHsOBJYHLUPNHr40Y9eIkfrjL5NmVZSu7fXxZv'
-access_token ='1482340462597914625-mNt0u4RfCjhgEjkuBHJAnhUB3NI5G0'
-access_secret='304XoYwXm42q1ZebX1gZUHNWJWTtcqx7v2rz4Kr9jCvbX'
+consumer_key=''
+consumer_secret=''
+access_token =''
+access_secret=''
 
 
 class TweetsListener(StreamListener):
